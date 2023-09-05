@@ -1,2 +1,2 @@
 # CCC-410ITS-03
-2024 Capstone Project
+Welcome to my Capstone project's documentation. Everything can be found in the [Wiki](https://github.com/tkdkel/CCC-410ITS-03/wiki).
